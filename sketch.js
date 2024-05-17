@@ -28,7 +28,6 @@ function preload(){
 }
 function draw() {
     background(255); 
-    //clear()
     imageMode(CENTER)
     image(shrek, width/2, height/2,width,height)
     image(fiona, width/2, 100,200,200)
